@@ -1,0 +1,16 @@
+{
+  "ScreenShotsWithPassTestCases": "true",
+  "ScreenShotsWithFailTestCases": "true",
+  "NumberOfRecordsInAPage": 10,
+  "Client_ID": "F89C87332357442491835AF23EA915B1",
+  "Client_Secret": "6631cb1f0be0c277623b2c07c4a80ad0fa4fa53c9da904706fa6645b47280819",
+  "TestPlanKey": "XRAYP-4",
+  "TestKeyText": "XRAY",
+  "TestPlanSummary": "TestPlanSummary",
+  "TestPlanDescription": "Test",
+  "LocAdminUsername": "",
+  "LocAdminPassword": "",
+  "LocCMUsername": "",
+  "LocCMPassword": "",
+  "Facility": "AAOR"
+}
